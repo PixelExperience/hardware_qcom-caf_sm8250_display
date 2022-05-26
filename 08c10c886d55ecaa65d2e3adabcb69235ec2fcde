@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "699436fd_66e42ba8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000243
+      },
+      "writtenOn": "2022-05-26T08:48:07Z",
+      "side": 1,
+      "message": "working fine on OnePlus Nord",
+      "revId": "08c10c886d55ecaa65d2e3adabcb69235ec2fcde",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
